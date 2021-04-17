@@ -53,10 +53,15 @@ neighbor cells (i.e., the eight surrounding cells: above, below, upper-left etc.
 run in generations recursively until all cells are dead or the user stops the program. 
 [I have chaned this to only run 20 steps to avoid having to force shutdown the program in order to stop it]
 Use the name generated in exercise 1 to apply these rules of the state changes of the cells:
+
 _Rule 1: An alive cell with two or three alive neighbors stays alive.
+
 Rule 2: An alive cell with less than two alive neighbors dies.
+
 Rule 3: An alive cell with more than three alive neighbors dies.
+
 Rule 4: A dead cell with three alive neighbors becomes alive._
+
 
 Each generation should be shown in some way when running the program. This can be done in any
 way you want (e.g. GUI, writing to a terminal, etc.)
