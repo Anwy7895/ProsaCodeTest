@@ -54,13 +54,13 @@ run in generations recursively until all cells are dead or the user stops the pr
 [I have chaned this to only run 20 steps to avoid having to force shutdown the program in order to stop it]
 Use the name generated in exercise 1 to apply these rules of the state changes of the cells:
 
-_Rule 1: An alive cell with two or three alive neighbors stays alive.
+_Rule 1: An alive cell with two or three alive neighbors stays alive._
 
-Rule 2: An alive cell with less than two alive neighbors dies.
+_Rule 2: An alive cell with less than two alive neighbors dies._
 
-Rule 3: An alive cell with more than three alive neighbors dies.
+_Rule 3: An alive cell with more than three alive neighbors dies._
 
-Rule 4: A dead cell with three alive neighbors becomes alive._
+_Rule 4: A dead cell with three alive neighbors becomes alive._
 
 
 Each generation should be shown in some way when running the program. This can be done in any
