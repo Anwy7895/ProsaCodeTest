@@ -22,7 +22,7 @@ Example name: ALEX
         - * - * - * - - - * - - - * - * -
         - * - * - * * * - * * * - * - * -
 
-_Note for edit: I have chosen to use # instead of * since I find it easier to read when written in the console_
+<br/> _Note for edit: I have chosen to use # instead of * since I find it easier to read when written in the console_
 
         - * * * -   - # # # -
         * - - - *   # - - - #
