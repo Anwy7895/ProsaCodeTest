@@ -55,7 +55,9 @@ _I have also changed the size of all the letters from 3x5 to 5x7 due to some rea
 change state (dead or alive) depending on their surroundings, as the cells interact with their
 neighbor cells (i.e., the eight surrounding cells: above, below, upper-left etc.). These interactions will
 run in generations recursively until all cells are dead or the user stops the program. 
+
 _[I have chaned this to only run 20 steps to avoid having to force shutdown the program in order to stop it]_
+
 Use the name generated in exercise 1 to apply these rules of the state changes of the cells:
 
 Rule 1: An alive cell with two or three alive neighbors stays alive.
