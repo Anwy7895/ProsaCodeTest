@@ -30,12 +30,19 @@ Note for edit: I have chosen to use # instead of * since I find it easier to rea
 * - - - *   # - - - #
 * - - - *   # - - - #
 I have also changed the size of all the letters from 3x5 to 5x7 due to some readability in certain letters such as M
+
         # - #   # - - - #
+        
         # # #   # # - # #
+        
         # - #   # - # - #
+        
         # - #   # - - - #
+        
         # - #   # - - - #
+        
                 # - - - #
+                
                 # - - - #
 
 
